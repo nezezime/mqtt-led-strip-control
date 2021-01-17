@@ -1,0 +1,5 @@
+- missing separate file for wifi client configuration
+- when we set status led to off state, one light channel turns on
+
+
+
